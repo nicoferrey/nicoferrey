@@ -45,7 +45,7 @@ I am an industrial and computer engineer. Both careers complement each other and
 
 ### 🌐 Web Development  
 <a href="https://github.com/nicoferrey/paseapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=paseapp&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Paseapp - Ecommerce" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=paseapp&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&cache_seconds=3600" alt="Paseapp - Ecommerce" />
 </a>
 <a href="https://github.com/nicoferrey/homefix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=homefix&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Paseapp - Ecommerce" />
