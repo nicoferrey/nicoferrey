@@ -25,7 +25,7 @@ I am an industrial and computer engineer. Both careers complement each other and
 ---
 
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -38,17 +38,33 @@ I am an industrial and computer engineer. Both careers complement each other and
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 <img align="left" alt="Microsoft Access" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 <br />
 
-### 🗂️ Highlight Projects
+## 🗂️ Highlight Projects
 
+### 🌐 Web Development  
 <a href="https://github.com/nicoferrey/paseapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=paseapp&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Paseapp - Ecommerce" />
 </a>
+<a href="https://github.com/nicoferrey/homefix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=homefix&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Paseapp - Ecommerce" />
+</a>
+
+### 🤖 IA + Machine Learning  
 <a href="https://github.com/nicoferrey/BankSubscription">
-  <img align="center" style="min-height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=BankSubscription&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Proyecto 2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=BankSubscription&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="BankSubscription" />
+</a>
+<a href="https://github.com/nicoferrey/FlowerDetection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=FlowerDetection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="BankSubscription" />
+</a>
+
+### 📊 Data Science & Insights  
+<a href="https://github.com/nicoferrey/AirbnbML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=AirbnbML&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="BankSubscription" />
+</a>
+<a href="https://github.com/nicoferrey/DiabetesEDA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=DiabetesEDA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="BankSubscription" />
 </a>
 
 
