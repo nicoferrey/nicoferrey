@@ -65,6 +65,12 @@ I am an industrial and computer engineer. Both careers complement each other and
 <a href="https://github.com/nicoferrey/DiabetesEDA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=DiabetesEDA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="BankSubscription" />
 </a>
+<a href="https://github.com/nicoferrey/SalesDashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=SalesDashboard&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SalesDashboard" />
+</a>
+<a href="https://github.com/nicoferrey/Mobilidad-Urbana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoferrey&repo=Mobilidad-Urbana&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Mobilidad-Urbana" />
+</a>
 
 
 
